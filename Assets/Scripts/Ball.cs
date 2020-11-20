@@ -1,40 +1,39 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class Ball : MonoBehaviour
+namespace Assets.Scripts
 {
-    float _speed = 20f;
-    Rigidbody _rigidbody;
-    Vector3 _velocity;
-    Renderer _renderer;
-
-    void Start()
+    public class Ball : MonoBehaviour
     {
-        _rigidbody = GetComponent<Rigidbody>();
-        _renderer = GetComponent<Renderer>();        
-        Invoke("Launch", 0.5f);
-    }
+        private const float Speed = 20f;
+        private Rigidbody _rigidbody;
+        private Vector3 _velocity;
+        private Renderer _renderer;
 
-    void Launch()
-    {
-        _rigidbody.velocity = Vector3.up * _speed;
-    }
-
-    // Update is called once per frame
-    void FixedUpdate()
-    {
-        _rigidbody.velocity = _rigidbody.velocity.normalized * _speed;
-        _velocity = _rigidbody.velocity;
-        if(!_renderer.isVisible)
+        private void Start()
         {
+            _rigidbody = GetComponent<Rigidbody>();
+            _renderer = GetComponent<Renderer>();        
+            Invoke("Launch", 0.5f);
+        }
+
+        private void Launch()
+        {
+            _rigidbody.velocity = Vector3.up * Speed;
+        }
+
+        // Update is called once per frame
+        private void FixedUpdate()
+        {
+            _rigidbody.velocity = _rigidbody.velocity.normalized * Speed;
+            _velocity = _rigidbody.velocity;
+            if (_renderer.isVisible) return;
             GameManager.Instance.Balls--;
             Destroy(gameObject);
         }
-    }
 
-    private void OnCollisionEnter(Collision collision)
-    {
-        _rigidbody.velocity = Vector3.Reflect(_velocity, collision.contacts[0].normal);
+        private void OnCollisionEnter(Collision collision)
+        {
+            _rigidbody.velocity = Vector3.Reflect(_velocity, collision.contacts[0].normal);
+        }
     }
 }

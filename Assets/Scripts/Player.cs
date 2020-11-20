@@ -1,19 +1,19 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class Player : MonoBehaviour
+namespace Assets.Scripts
 {
-    Rigidbody _rigidbody;
-
-    void Start()
+    public class Player : MonoBehaviour
     {
-        _rigidbody = GetComponent<Rigidbody>();    
-    }
+        private Rigidbody _rigidbody;
 
-    void FixedUpdate()
-    {
-        _rigidbody.MovePosition(new Vector3(Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, 0, 50)).x, -17, 0));
-        
+        private void Start()
+        {
+            _rigidbody = GetComponent<Rigidbody>();    
+        }
+
+        private void FixedUpdate()
+        {
+            _rigidbody.MovePosition(new Vector3(Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, 0, 50)).x, -17, 0));
+        }
     }
 }
