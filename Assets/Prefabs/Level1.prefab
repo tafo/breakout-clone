@@ -57,6 +57,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -81,6 +82,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4383263355065570626
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -106,7 +108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -167,6 +169,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -191,6 +194,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8613953472591502729
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -216,7 +220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -277,6 +281,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -301,6 +306,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &2725255631370593972
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -326,7 +332,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -387,6 +393,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -411,6 +418,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8953387413241829908
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -436,7 +444,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -497,6 +505,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -521,6 +530,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8171954943190574743
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -546,7 +556,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -736,6 +746,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -760,6 +771,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4947129875905848499
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -785,7 +797,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -846,6 +858,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -870,6 +883,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &7264321097439980443
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -895,7 +909,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -956,6 +970,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -980,6 +995,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &279168222734769300
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1005,7 +1021,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -1066,6 +1082,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1090,6 +1107,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &7804662075409316006
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1115,7 +1133,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -1176,6 +1194,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1200,6 +1219,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &3160079001864763454
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1225,7 +1245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -1286,6 +1306,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1310,6 +1331,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5389229505471507905
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1335,7 +1357,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -1396,6 +1418,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1420,6 +1443,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &959529003464114971
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1445,7 +1469,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -1506,6 +1530,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1530,6 +1555,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8833746237364836526
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1555,7 +1581,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -1616,6 +1642,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1640,6 +1667,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &1049468651308226643
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1665,7 +1693,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -1726,6 +1754,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1750,6 +1779,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8720052611064215664
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1775,7 +1805,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -1836,6 +1866,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1860,6 +1891,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &3185534814443628625
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1885,7 +1917,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -1946,6 +1978,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1970,6 +2003,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &835166628918464728
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1995,7 +2029,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -2056,6 +2090,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2080,6 +2115,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8986407047084685996
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2105,7 +2141,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -2166,6 +2202,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2190,6 +2227,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5200505712535460510
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2215,7 +2253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -2276,6 +2314,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2300,6 +2339,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8140428571583221806
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2325,7 +2365,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -2386,6 +2426,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2410,6 +2451,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4806028604883190832
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2435,7 +2477,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -2496,6 +2538,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2520,6 +2563,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5699743595876392512
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2545,7 +2589,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -2606,6 +2650,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2630,6 +2675,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5048932662426642287
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2655,7 +2701,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -2716,6 +2762,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2740,6 +2787,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &3774254821994967846
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2765,7 +2813,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -2826,6 +2874,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2850,6 +2899,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &6229389112179841140
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2875,7 +2925,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -2936,6 +2986,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2960,6 +3011,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5486021995819921
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2985,7 +3037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -3046,6 +3098,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3070,6 +3123,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &7696032302995189934
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3095,7 +3149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -3156,6 +3210,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3180,6 +3235,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5906161892425201492
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3205,7 +3261,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -3266,6 +3322,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3290,6 +3347,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8719831679305448402
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3315,7 +3373,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -3376,6 +3434,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3400,6 +3459,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8120710259509728146
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3425,7 +3485,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -3486,6 +3546,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3510,6 +3571,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &3174423547161855068
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3535,7 +3597,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -3596,6 +3658,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3620,6 +3683,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &734303184992415276
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3645,7 +3709,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -3706,6 +3770,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3730,6 +3795,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &3598206053509411203
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3755,7 +3821,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -3816,6 +3882,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3840,6 +3907,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &2190069009122658849
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3865,7 +3933,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -3926,6 +3994,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3950,6 +4019,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5349138896576029134
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3975,7 +4045,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -4036,6 +4106,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -4060,6 +4131,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8975150492080939396
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4085,7 +4157,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -4146,6 +4218,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -4170,6 +4243,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &2756887633401308272
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4195,7 +4269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -4256,6 +4330,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -4280,6 +4355,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &7733328218932884251
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4305,7 +4381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -4366,6 +4442,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -4390,6 +4467,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4591059183249604242
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4415,7 +4493,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -4476,6 +4554,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -4500,6 +4579,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4704310355309152205
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4525,7 +4605,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -4586,6 +4666,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -4610,6 +4691,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5133355865058700002
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4635,7 +4717,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -4696,6 +4778,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -4720,6 +4803,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5278001642931171372
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4745,7 +4829,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -4806,6 +4890,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -4830,6 +4915,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8437969151890681282
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4855,7 +4941,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -4916,6 +5002,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -4940,6 +5027,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &1147871459808439030
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4965,7 +5053,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -5026,6 +5114,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -5050,6 +5139,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &712899641654264347
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5075,7 +5165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -5136,6 +5226,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -5160,6 +5251,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4560799988086780141
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5185,7 +5277,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -5246,6 +5338,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -5270,6 +5363,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8146270242202737007
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5295,7 +5389,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -5356,6 +5450,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -5380,6 +5475,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4005072549521620320
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5405,7 +5501,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -5466,6 +5562,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -5490,6 +5587,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5369782168252104235
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5515,7 +5613,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -5576,6 +5674,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -5600,6 +5699,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4422305099219057100
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5625,7 +5725,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -5686,6 +5786,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -5710,6 +5811,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4281716709566201047
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5735,7 +5837,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -5796,6 +5898,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -5820,6 +5923,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5768480847064358324
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5845,7 +5949,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -5906,6 +6010,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -5930,6 +6035,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5207935704648531100
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5955,7 +6061,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -6016,6 +6122,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -6040,6 +6147,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &1375557062686184137
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6065,7 +6173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -6126,6 +6234,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -6150,6 +6259,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4385483158097608341
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6175,7 +6285,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -6236,6 +6346,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -6260,6 +6371,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &2158942461740127941
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6285,7 +6397,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -6346,6 +6458,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -6370,6 +6483,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &660735801368185206
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6395,7 +6509,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -6456,6 +6570,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -6480,6 +6595,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &1407751246229292389
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6505,7 +6621,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -6566,6 +6682,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -6590,6 +6707,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &7493108067387381328
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6615,7 +6733,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -6676,6 +6794,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -6700,6 +6819,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &1792220387646302
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6725,7 +6845,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -6786,6 +6906,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -6810,6 +6931,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4857463931353786517
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6835,7 +6957,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -6896,6 +7018,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -6920,6 +7043,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &6367838229834785242
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6945,7 +7069,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -7006,6 +7130,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -7030,6 +7155,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5620479747718476865
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7055,7 +7181,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -7116,6 +7242,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -7140,6 +7267,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &712235703344710987
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7165,7 +7293,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -7226,6 +7354,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -7250,6 +7379,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &2722764382303195672
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7275,7 +7405,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -7336,6 +7466,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -7360,6 +7491,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &3876379174572918754
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7385,7 +7517,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -7446,6 +7578,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -7470,6 +7603,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8011776837019301439
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7495,7 +7629,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -7556,6 +7690,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -7580,6 +7715,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5175332991681693249
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7605,7 +7741,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -7666,6 +7802,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -7690,6 +7827,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8600305513445331537
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7715,7 +7853,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -7776,6 +7914,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -7800,6 +7939,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &626641949290096790
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7825,7 +7965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -7886,6 +8026,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -7910,6 +8051,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5283700747180398026
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7935,7 +8077,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -7996,6 +8138,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -8020,6 +8163,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &6710732005849708821
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8045,7 +8189,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -8106,6 +8250,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -8130,6 +8275,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &3765572809684294510
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8155,7 +8301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -8216,6 +8362,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -8240,6 +8387,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &3490320390698622812
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8265,7 +8413,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -8326,6 +8474,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -8350,6 +8499,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4896285411305706192
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8375,7 +8525,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -8436,6 +8586,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -8460,6 +8611,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &787471561489437522
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8485,7 +8637,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -8546,6 +8698,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -8570,6 +8723,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &416617425757776434
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8595,7 +8749,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -8656,6 +8810,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -8680,6 +8835,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &1564332712549935279
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8705,7 +8861,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -8766,6 +8922,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -8790,6 +8947,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5422996374994819464
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8815,7 +8973,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -8876,6 +9034,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -8900,6 +9059,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5326557576026966438
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8925,7 +9085,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -8986,6 +9146,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -9010,6 +9171,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5505459950461995643
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9035,7 +9197,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -9096,6 +9258,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -9120,6 +9283,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &6261920343583267249
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9145,7 +9309,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -9206,6 +9370,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -9230,6 +9395,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &6786402288580489260
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9255,7 +9421,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -9316,6 +9482,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -9340,6 +9507,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4412018215482501980
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9365,7 +9533,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -9426,6 +9594,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -9450,6 +9619,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &6686548488341845385
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9475,7 +9645,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -9536,6 +9706,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -9560,6 +9731,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &2689770101038097934
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9585,7 +9757,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -9646,6 +9818,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -9670,6 +9843,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &7644023982605569673
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9695,7 +9869,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -9756,6 +9930,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -9780,6 +9955,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5227779584479130127
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9805,7 +9981,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -9866,6 +10042,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -9890,6 +10067,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &4381229991212662666
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9915,7 +10093,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -9976,6 +10154,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -10000,6 +10179,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8386624797340819410
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10025,7 +10205,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -10086,6 +10266,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -10110,6 +10291,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8174670997452407012
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10135,7 +10317,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -10196,6 +10378,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -10220,6 +10403,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &2475334800451634710
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10245,7 +10429,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -10306,6 +10490,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -10330,6 +10515,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8422312442126981276
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10355,7 +10541,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -10416,6 +10602,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -10440,6 +10627,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &7061787640316647771
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10465,7 +10653,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -10526,6 +10714,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -10550,6 +10739,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &3865041750440615498
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10575,7 +10765,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -10636,6 +10826,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -10660,6 +10851,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &2904230904434024750
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10685,7 +10877,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -10746,6 +10938,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -10770,6 +10963,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &7202587939302019383
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10795,7 +10989,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -10856,6 +11050,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -10880,6 +11075,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &6425664472178409635
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10905,7 +11101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
@@ -10966,6 +11162,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -10990,6 +11187,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8723032067420796500
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11015,7 +11213,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7cd5128fe653dc49bbed9d380014525, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 200
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: c33923efc6ff50642bbe070d09a12a7e, type: 2}
